@@ -1,4 +1,4 @@
-# PortSwigger Web Security Academy
+# PortSwigger Web Security Academy.
 
 My learning portfolio for web application security topics covered in [PortSwigger Web Security Academy](https://portswigger.net/web-security). Learning progress and hands-on lab results are tracked separately; only labs listed as completed below are marked solved.
 
